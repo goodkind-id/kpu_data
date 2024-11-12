@@ -1,0 +1,31 @@
+// Indra Giwank Anhar - Calon Wakil Bupati Aceh Selatan => SEHARUSNYA MIRWAN, S.H.
+// Hj. Suhartina Bohari - Calon Wakil Bupati Maros -> CALON HANYA SATU PASANGAN
+// Mukhlis, S.Sos. - Calon Bupati Aceh Besar
+// Khairul Kiyedi Pasaribu - Calon Bupati Tapanuli Tengah
+// Darwin Sitompul - Calon Wakil Bupati Tapanuli Tengah
+// Arman Maulana - Calon Wakil Bupati Parigi Moutong
+// M. Fathul Fauzy Nurdin - Calon Bupati Bantaeng
+// H. Muhammad Yusran Lalogau - Calon Bupati Pangkajene dan Kepulauan
+// H. Abd. Rahman Assagaf - Calon Wakil Bupati Pangkajene dan Kepulauan
+// A Nusawarta - Calon Bupati Pangkajene dan Kepulauan
+// Moh. Sofyan Razak - Calon Wakil Bupati Pangkajene dan Kepulauan
+// Andi Muhammad Khairul Akbar - Calon Bupati Pangkajene dan Kepulauan
+// Amiruddin - Calon Wakil Bupati Pangkajene dan Kepulauan
+// LM. Sumarlin - Calon Wakil Bupati Buton
+// La Ode Amirudin - Calon Wakil Bupati Buton Selatan
+// Abdillah Alhasni - Calon Wakil Bupati Boalemo
+// Frengky Mandacan, S.Sos, M.A - Calon Bupati Manokwari Selatan
+// Stevanus Kaisma - Calon Bupati Mappi
+// Spei Yan Birdana,ST.,M.Si - Calon Bupati Pegunungan Bintang
+// Arnold Nam, S.Ap - Calon Wakil Bupati Pegunungan Bintang
+// Thonce Nabyal - Calon Bupati Pegunungan Bintang
+// Jeremias Tapyor - Calon Wakil Bupati Pegunungan Bintang
+// Denius T. Uopmabin - Calon Bupati Pegunungan Bintang
+// Rumin Lepitalen - Calon Wakil Bupati Pegunungan Bintang
+// Costan Oktemka - Calon Bupati Pegunungan Bintang
+// Kris Bakweng Uropmabin - Calon Wakil Bupati Pegunungan Bintang
+// Obet Gwijangge - Calon Wakil Bupati Nduga
+// Charles Budy Doku - Calon Wakil Wali Kota Gorontalo
+// Putriana Hamda Dakka - Calon Wali Kota Palopo
+// Bobby Daud - Calon Wakil Wali Kota Manado
+// H. Muhammad Saini - Calon Wali Kota Parepare
